@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="btn_yellow_outline" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/yellow_outline</item>
+    </style>
+</resources>
